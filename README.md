@@ -19,5 +19,9 @@ Write a program that create file, then write into a file.
 
 
 #### Implementation
-Do the implementation of the `createFile` method, then call it in the main method.
+Do the implementation of the `createFile` method:
+1. Create a file object of FileWriter class with the name that given in the method argument.
+2. Write into the file using the `write` method of the FileWriter class.
+3. Close the file using the `close` method of the FileWriter class.
+4. Call it in the main method.
 
