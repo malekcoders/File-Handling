@@ -25,7 +25,7 @@ Do the implementation of the `createFile` method:
 3. Close the file using the `close` method of the FileWriter class.
 4. Call it in the main method.
 
-```mermaid
+```
 public static void createFile(String fileName) throws IOException {
     /* Your code here */
 }
