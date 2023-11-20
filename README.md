@@ -20,9 +20,9 @@ Write a program that create a text file, then write into that text file.
 
 #### Implementation
 Do the implementation of the `createFile` method:
-1. Create a file object of FileWriter class with the name that given in the method argument.
-2. Write into the file using the `write` method of the FileWriter class.
-3. Close the file stream `close` method of the FileWriter class.
+1. Create a file object of `FileWriter` class with the name that given in the method argument.
+2. Write into the file, using the `write` method of the FileWriter class.
+3. Close the file stream, using the `close` method of the FileWriter class.
 4. Call it in the main method.
 
 ```
